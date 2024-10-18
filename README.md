@@ -1,7 +1,5 @@
 # Cataract Detection using SIFT and GLCM
 
-![Project Banner](path_to_image/banner.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -47,15 +45,10 @@ Follow these steps to set up the project:
     cd cataract-detection
     ```
 
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
-1. Prepare the dataset by placing the images in the `data/` folder.
+1. Prepare the dataset by placing the images in the `mypath` .
 2. Run the feature extraction and classification script:
 
     ```bash
@@ -93,6 +86,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-**Contact:** If you have any questions, feel free to reach out via email at your.email@example.com.
