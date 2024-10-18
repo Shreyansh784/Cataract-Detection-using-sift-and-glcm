@@ -62,7 +62,7 @@ Follow these steps to set up the project:
 
 You can also run this project directly on Google Colab without needing to install anything locally. Just click the link below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/cataract-detection/blob/main/cataract_detection_colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/drive/10FrM9Yv5J9XxGP_Fb26FPaYyJausxlrF?usp=sharing)
 
 This Colab notebook provides an interactive way to test the model, run experiments, and visualize results using a preconfigured environment in the cloud.
 
