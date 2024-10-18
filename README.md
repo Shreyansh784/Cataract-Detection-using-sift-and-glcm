@@ -8,6 +8,7 @@
   - [GLCM](#glcm)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Google Colab](#google-colab)
 - [Dataset](#dataset)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -56,6 +57,14 @@ Follow these steps to set up the project:
     ```
 
 3. The results will be displayed, showing whether the images indicate the presence of cataracts.
+
+## Google Colab
+
+You can also run this project directly on Google Colab without needing to install anything locally. Just click the link below:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/cataract-detection/blob/main/cataract_detection_colab.ipynb)
+
+This Colab notebook provides an interactive way to test the model, run experiments, and visualize results using a preconfigured environment in the cloud.
 
 ## Dataset
 
